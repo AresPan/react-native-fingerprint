@@ -1,0 +1,8 @@
+{
+  "name": "react-native-fingerprint",
+  "version": "0.0.1",
+  "private": true,
+  "description": "React Native Fingerprint supprot",
+  "main":"rn_fingerprint",
+  "keywords": "react-native-fingerprint"
+}
